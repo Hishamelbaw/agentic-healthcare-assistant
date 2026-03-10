@@ -1,0 +1,50 @@
+<medical_reference>
+  <disease>
+    <name>Hypertension</name>
+    <aliases>high blood pressure essential hypertension I10 htn bp</aliases>
+    <overview>Hypertension is a chronic condition in which blood pressure remains persistently elevated (>=130/80 mmHg) and significantly increases the risk of cardiovascular disease, stroke, and kidney failure.</overview>
+    <symptoms>Often asymptomatic (known as the silent killer). Severe or uncontrolled cases may involve headache, dizziness, blurred vision, nosebleeds, or shortness of breath.</symptoms>
+    <management>Lifestyle modification (low-sodium diet, regular exercise, weight management, reduced alcohol), regular blood pressure monitoring, and antihypertensive medication such as ACE inhibitors, ARBs, beta-blockers, or calcium channel blockers when clinically indicated.</management>
+    <source>WHO / MedlinePlus</source>
+  </disease>
+  <disease>
+    <name>Type 2 Diabetes Mellitus</name>
+    <aliases>type 2 diabetes diabetes mellitus E11.9 high blood sugar hyperglycaemia t2dm</aliases>
+    <overview>Type 2 diabetes is a chronic metabolic disorder characterised by insulin resistance and relative insulin deficiency, resulting in persistently elevated blood glucose levels.</overview>
+    <symptoms>Increased thirst (polydipsia), frequent urination (polyuria), unexplained fatigue, blurred vision, slow-healing wounds, recurrent infections, and tingling or numbness in hands/feet.</symptoms>
+    <management>Lifestyle intervention (diet, exercise, weight loss), oral hypoglycaemics (Metformin first-line), SGLT2 inhibitors, GLP-1 agonists, insulin therapy when required. Regular HbA1c monitoring, lipid profile, renal function, and foot/eye examinations.</management>
+    <source>WHO / MedlinePlus / ADA Standards of Care</source>
+  </disease>
+  <disease>
+    <name>Upper Respiratory Infection</name>
+    <aliases>URI cough mild fever J06.9 cold common cold pharyngitis rhinitis</aliases>
+    <overview>Upper respiratory infection (URI) is a group of usually self-limiting infectious conditions affecting the nose, throat, sinuses, and upper airways. Most are caused by viruses.</overview>
+    <symptoms>Dry or productive cough, mild fever, sore throat, nasal congestion or rhinorrhoea, sneezing, fatigue, and mild body aches. Symptoms typically resolve in 7-10 days.</symptoms>
+    <management>Supportive care: adequate hydration, rest, analgesics/antipyretics for symptom relief. Antihistamines for rhinorrhoea. Antibiotics only if bacterial secondary infection is confirmed. Reassess if symptoms worsen beyond 10 days.</management>
+    <source>WHO / MedlinePlus / CDC</source>
+  </disease>
+  <disease>
+    <name>Costochondritis</name>
+    <aliases>chest wall pain costo M94.0 sternal pain musculoskeletal chest</aliases>
+    <overview>Costochondritis is inflammation of the cartilage connecting the ribs to the sternum. It is a common cause of chest pain that is musculoskeletal in origin, not cardiac.</overview>
+    <symptoms>Sharp localised chest pain at the costo-sternal junction; pain worsens with deep breathing, coughing, or physical activity; reproducible tenderness on palpation of the affected joint.</symptoms>
+    <management>NSAIDs (ibuprofen 400-600mg TID with food) for 5-10 days, rest, avoidance of aggravating activities, gentle stretching. Seek urgent evaluation if cardiac cause cannot be excluded.</management>
+    <source>MedlinePlus / AAFP</source>
+  </disease>
+  <disease>
+    <name>Polycystic Ovary Syndrome</name>
+    <aliases>PCOS polycystic ovarian syndrome E28.2 hormonal irregular period</aliases>
+    <overview>PCOS is a common hormonal disorder affecting women of reproductive age, characterised by androgen excess, ovulatory dysfunction, and polycystic ovarian morphology.</overview>
+    <symptoms>Irregular or absent menstrual periods, excessive hair growth, acne, weight gain, thinning scalp hair, and difficulty conceiving. Associated with insulin resistance and metabolic syndrome.</symptoms>
+    <management>Lifestyle modification, combined oral contraceptives (COCs) to regulate cycles, metformin for insulin resistance, clomiphene or letrozole for ovulation induction.</management>
+    <source>WHO / MedlinePlus / ESHRE Guidelines</source>
+  </disease>
+  <disease>
+    <name>Migraine</name>
+    <aliases>migraine headache G43 aura migraine with aura sumatriptan</aliases>
+    <overview>Migraine is a neurological disorder characterised by recurrent moderate-to-severe headaches, often unilateral and pulsating, lasting 4-72 hours. May be preceded by aura.</overview>
+    <symptoms>Severe throbbing headache (often one-sided), nausea, vomiting, photophobia, phonophobia, and in some cases visual aura before the headache phase.</symptoms>
+    <management>Acute: triptans (sumatriptan), NSAIDs, anti-emetics. Preventive: beta-blockers, topiramate, amitriptyline. Magnesium and Vitamin B2 supplementation have evidence for prevention.</management>
+    <source>WHO / MedlinePlus / IHS Guidelines</source>
+  </disease>
+</medical_reference>

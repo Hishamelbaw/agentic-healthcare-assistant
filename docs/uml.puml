@@ -1,0 +1,44 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+class HealthcareAssistant {
+  - appointment_manager: AppointmentManager
+  - record_manager: RecordManager
+  - retriever: MedicalRetriever
+  - memory: MemoryStore
+  + run(user_input: str): str
+}
+
+class AppointmentManager {
+  - default_schedule: Dict
+  - data: Dict
+  + book(patient_name: str, doctor: str, date_text: str, preferred_time: str): str
+}
+
+class RecordManager {
+  - df
+  - pdf_texts: Dict
+  + get_record(query: str): str
+  + update_record(patient_name: str, new_note: str): str
+  + summarize_history(patient_name: str): str
+}
+
+class MedicalRetriever {
+  - chunks: List
+  - references: List
+  - model
+  - index
+  + search(query: str): str
+}
+
+class MemoryStore {
+  - recent_interactions: List
+  + add(user_message: str): None
+  + summary(): str
+}
+
+HealthcareAssistant --> AppointmentManager
+HealthcareAssistant --> RecordManager
+HealthcareAssistant --> MedicalRetriever
+HealthcareAssistant --> MemoryStore
+@enduml
